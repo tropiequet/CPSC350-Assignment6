@@ -5,7 +5,7 @@ ropiequet@chapman.edu
 CPSC 350-02
 Assignment 6
 
-This is my main method the implements and times my sorting algorithms
+This is my main method the implements and times my sorting algorithms the outputs the data
 
 */
 
